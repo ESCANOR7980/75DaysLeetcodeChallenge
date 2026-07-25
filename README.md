@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3536-maximum-product-of-two-digits](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Sorting
+|  |
+| ------- |
+| [3536-maximum-product-of-two-digits](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
 <!---LeetCode Topics End-->

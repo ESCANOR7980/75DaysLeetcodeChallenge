@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3536-maximum-product-of-two-digits) |
+| [3870-count-commas-in-range](https://github.com/ESCANOR7980/75DaysLeetcodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Bit Manipulation
 |  |
 | ------- |
